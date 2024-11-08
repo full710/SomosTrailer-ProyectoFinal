@@ -37,7 +37,8 @@ Sigue estos pasos para clonar e instalar el proyecto localmente.
 1. Clona el repositorio:
     ```bash
     git clone https://github.com/tu-usuario/somostrailer.git
-    cd somostrailer
+    cd SomosTrailer-ProyectoFinal
+
     ```
 
 2. Instala las dependencias:
